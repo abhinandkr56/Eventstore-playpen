@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "se150kCV66gLYlsD7Ag4hjKHClxd0TT4975NeRg7lq8=",
+  "Source": "EventstoreBasics",
+  "BasePath": "_content/EventstoreBasics",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
